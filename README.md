@@ -4,12 +4,20 @@ Avieron Tech Pvt Ltd is a cutting-edge technology company delivering innovative 
 
 ## 🚀 What We Do
 
-Our development expertise is rooted in modern, high-performance technologies, enabling us to build clean, efficient, and enterprise-grade systems.
+Our development expertise is rooted in modern, high-performance technologies, enabling us to build clean, efficient, and enterprise-grade systems across web, mobile, and blockchain ecosystems.
 
 ### 💻 Core Technologies
 - **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - **Next.js** & **NestJS**
+- **React Native** for cross-platform mobile app development
+- **PostgreSQL** & **Prisma ORM**
 - Cloud-native & scalable architectures
+
+### 📱 Web & Mobile App Development
+- Responsive, high-performance web applications
+- Cross-platform mobile apps using **React Native**
+- Scalable backend systems & REST/GraphQL APIs
+- Secure authentication, payments, and third-party integrations
 
 ### 🔗 Blockchain & Web3 Solutions
 - Smart contract development
@@ -18,7 +26,16 @@ Our development expertise is rooted in modern, high-performance technologies, en
 - Decentralized Applications (dApps)
 - EVM-compatible chains: **Ethereum, BNB Chain, Polygon**, and more
 
-Whether you're building a crypto product, NFT utility, or tokenized platform, we provide reliable blockchain engineering backed by a strong and secure backend infrastructure.
+Whether you're building a crypto product, NFT utility, or tokenized platform, we provide reliable blockchain engineering backed by strong and secure backend infrastructure.
+
+### ✈️ Travel Tech & Booking Platforms
+- Travel booking systems & holiday package platforms
+- Flight, hotel, and tour package management
+- Real-time availability & pricing engines
+- Booking workflows, payment gateways & admin dashboards
+- Custom travel CRM & vendor integrations
+
+We help travel businesses digitize operations and deliver seamless booking experiences with scalable, user-friendly platforms.
 
 ### 🧩 End-to-End Software Development
 - Web & mobile app development
@@ -28,11 +45,11 @@ Whether you're building a crypto product, NFT utility, or tokenized platform, we
 
 ## 🤝 Our Approach
 
-We combine technical excellence with transparent communication and a problem-solving mindset. Every solution is tailored to your business needs, with scalability, performance, and security at the core.
+We combine technical excellence with transparent communication and a problem-solving mindset. Every solution we deliver is tailored to business needs, with scalability, performance, and security at the core.
 
 ## 🌍 Let’s Build the Future
 
 We don’t just build software—we help you build **digital success**.  
-Whether you're launching a new idea or modernizing an existing platform, Avieron Tech Pvt Ltd is ready to deliver.
+Whether you're launching a new idea, scaling a startup, or modernizing an existing platform, Avieron Tech Pvt Ltd is ready to deliver.
 
 **Let’s revolutionize your digital journey with future-ready tech solutions.**
